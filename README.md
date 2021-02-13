@@ -1,2 +1,2 @@
-# math-stat
-statistics with python or R
+# Statistics SAS
+statistics with SAS
